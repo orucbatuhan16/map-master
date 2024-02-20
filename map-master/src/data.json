@@ -1,0 +1,414 @@
+[
+  {
+    "name": "ömer güleç",
+    "floor": "2",
+    "blok": "B",
+    "title": "Dr.",
+    "major": "Yönetim Bilişim Sistemleri",
+    "photo": "https://cdn.pau.edu.tr/BIYS/siteler/sosyalbilimler/editor/gulec.png",
+    "Latitude": "37.737904",
+    "Longitude": "29.107347"
+  },
+  {
+    "name": "çetin kalburan",
+    "floor": "2",
+    "blok": "B",
+    "title": "Dr.",
+    "major": "Yönetim Bilişim Sistemleri",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/93F2CE934311E4F2A0B6B8B5EE5215.jpg",
+    "Latitude": "37.737835",
+    "Longitude": "29.107422"
+  },
+  {
+    "name": "serkan dolma",
+    "floor": "2",
+    "blok": "B",
+    "title": "Dr.",
+    "major": "Yönetim Bilişim Sistemleri",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/186C9F5FCF19CE9CE470D57843D935.jpg",
+    "Latitude": "37.737801",
+    "Longitude": "29.107400"
+  },
+  {
+    "name": "ibrahim aksel",
+    "floor": "2",
+    "blok": "B",
+    "title": "Prof.Dr.",
+    "major": "Yönetim Bilişim Sistemleri",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/5AFAC7956D5947A6D701A8724C34A4.jpg",
+    "Latitude": "37.737746",
+    "Longitude": "29.107395"
+  },
+  {
+    "name": "leyla özgür polat",
+    "floor": "2",
+    "blok": "B",
+    "title": "Dr.",
+    "major": "Yönetim Bilişim Sistemleri",
+    "photo": "https://cdn.pau.edu.tr/BIYS/siteler/ybs/editor/leyla.jpg",
+    "Latitude": "37.737780",
+    "Longitude": "29.107357"
+  },
+  {
+    "name": "aylin sabancı bayramoğlu",
+    "floor": "1",
+    "blok": "B",
+    "title": "Arş. Gör.",
+    "major": "Yönetim Bilişim Sistemleri",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/A60222020787FB93B93AAC53913EC0.jpg",
+    "Latitude": "37.737797",
+    "Longitude": "29.107341"
+  },
+  {
+    "name": "koray günel",
+    "floor": "1",
+    "blok": "B",
+    "title": "Arş. Gör.",
+    "major": "Bilişim yönetim anabilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/10CEA2E915298C44EE6C4EE63B0359.jpg",
+    "Latitude": "37.737763",
+    "Longitude": "29.107325"
+  },
+  {
+    "name": "berker dal",
+    "floor": "z",
+    "blok": "c",
+    "title": "Arş. Gör.",
+    "major": "Karar bilimleri ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/BIYS/siteler/ybs/editor/Berker1.jpg",
+    "Latitude": "37.737861",
+    "Longitude": "29.107357"
+  },
+  {
+    "name": "emre şahin",
+    "floor": "2",
+    "blok": "B",
+    "title": "Arş. Gör.",
+    "major": "Bilişim sistemleri ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/BIYS/siteler/ybs/editor/emre.jpg",
+    "Latitude": "37.737742",
+    "Longitude": "29.107357"
+  },
+  {
+    "name": "ilhan küçükkaplan",
+    "floor": "3",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": "Uluslararası finansman ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/898B57467174DEB418121018689C89.jpg",
+    "Latitude": "37.737903",
+    "Longitude": "29.106809"
+  },
+  {
+    "name": "selçuk burak haşıloğlu",
+    "floor": "2",
+    "blok": "B",
+    "title": "Prof. Dr.",
+    "major": "Yönetim Bilişim Sistemleri",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/B1BA7AB52AAAC619AA26665B9FC6CE.jpg",
+    "Latitude": "37.737834",
+    "Longitude": "29.107426"
+  },
+  {
+    "name": "osman varol",
+    "floor": "3",
+    "blok": "A",
+    "title": "Arş. Gör. ",
+    "major": "Uluslararası finansman ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/EB3A411E692408D3898D8B4EC821F7.jpg",
+    "Latitude": "337.737899",
+    "Longitude": "29.106745"
+  },
+  {
+    "name": "murat kantar",
+    "floor": "3",
+    "blok": "A",
+    "title": "Dr. Öğr. ",
+    "major": "Uluslararası işletme ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/13255BB92533EC876C771B47BDBD28.jpg",
+    "Latitude": "337.737865",
+    "Longitude": "29.106734"
+  },
+  {
+    "name": "nazan madak öztürk",
+    "floor": "3",
+    "blok": "A",
+    "title": "Arş. Gör. ",
+    "major": "Uluslararası işletme ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/5F032060CA3F25AEFD852E096E3050.jpg",
+    "Latitude": "37.737823",
+    "Longitude": "29.106734"
+  },
+  {
+    "name": "şaban nazlıoğlu",
+    "floor": "3",
+    "blok": "A",
+    "title": "Prof. Dr. ",
+    "major": "Uluslararası ticaret ana bilim dalı",
+    "photo": "http://haber.pau.edu.tr/Content/newsimg/110-yillik-veriler-kullanildi//xl_1ce25519-fa2b-4887-b5ab-0ee957cca1a2.jpg",
+    "Latitude": "37.737789",
+    "Longitude": "29.106729"
+  },
+  {
+    "name": "dilek durusu çiftçi",
+    "floor": "3",
+    "blok": "A",
+    "title": "Doç. Dr.",
+    "major": "Uluslararası ticaret ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/C388E65E8917E3CAD0B29F99F031D9.jpg",
+    "Latitude": "37.737818",
+    "Longitude": "29.106809"
+  },
+  {
+    "name": "uğur akkoç",
+    "floor": "3",
+    "blok": "A",
+    "title": "Doç. Dr.",
+    "major": "Uluslararası ticaret ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/3513E4FA835CD9C6A572A254F1CECE.jpg",
+    "Latitude": "37.737810",
+    "Longitude": "29.106729"
+  },
+  {
+    "name": "müge peştere akçay",
+    "floor": "z",
+    "blok": "B",
+    "title": "Arş. Gör. ",
+    "major": "Uluslararası ticaret ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/B65D117B50C026EB5490D3733462BC.jpg",
+    "Latitude": "37.737823",
+    "Longitude": "29.106858"
+  },
+  {
+    "name": "asım kar",
+    "floor": "1",
+    "blok": "B",
+    "title": "Arş. Gör. ",
+    "major": "Uluslararası ticaret ana bilim dalı",
+    "photo": "https://cdn.pau.edu.tr/MISC/photos/B92BBFF85F88F042BA9D22ED09DA55.jpg",
+    "Latitude": "37.737899",
+    "Longitude": "29.106772"
+  },
+  {
+    "name": "dündar kök",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/dkok.jpg",
+    "Latitude": "37.737908",
+    "Longitude": "29.106818"
+  },
+
+  {
+    "name": "ender coşkun",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/ecoskun.jpg",
+    "Latitude": "37.737857",
+    "Longitude": "29.106823"
+  },
+  {
+    "name": "hafize meder çakır",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/hmcakir.jpg",
+    "Latitude": "37.737781",
+    "Longitude": "29.106834"
+  },
+  {
+    "name": "hakan aygören",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/haygoren.jpg",
+    "Latitude": "37.737815",
+    "Longitude": "29.106753"
+  },
+  {
+    "name": "hakan sarıtaş",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/hsaritas.jpg",
+    "Latitude": "37.737824",
+    "Longitude": "29.106737"
+  },
+  {
+    "name": "umut uyar",
+    "floor": "z",
+    "blok": "B",
+    "title": "Doç. Dr. ",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/umut2_thumb.png",
+    "Latitude": "37.737773",
+    "Longitude": "29.106737"
+  },
+  {
+    "name": "mehmet utku",
+    "floor": "1",
+    "blok": "A",
+    "title": "Doç. Dr. ",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/mutku_thumb.jpg",
+    "Latitude": "37.737852",
+    "Longitude": "29.106804"
+  },
+  {
+    "name": "osman barlas bursalı",
+    "floor": "1",
+    "blok": "A",
+    "title": " Dr. Öğr. Ü. ",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/obbursali.jpg",
+    "Latitude": "37.737768",
+    "Longitude": "29.106729"
+  },
+  {
+    "name": "habib küçükşahin",
+    "floor": "1",
+    "blok": "B",
+    "title": "Dr.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/hkucuksahin.jpg",
+    "Latitude": "37.737772",
+    "Longitude": "29.106810"
+  },
+  {
+    "name": "göksal s. kelten",
+    "floor": "1",
+    "blok": "B",
+    "title": "Arş. Gör.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/goksal_thumb.jpg",
+    "Latitude": "37.738009",
+    "Longitude": "29.106815"
+  },
+
+  {
+    "name": "melek cıbır",
+    "floor": "1",
+    "blok": "B",
+    "title": "Arş. Gör.",
+    "major": " Muhasebe ve Finansman Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/mcibir_thumb.jpg",
+    "Latitude": "37.737971",
+    "Longitude": "29.106793"
+  },
+  {
+    "name": "arzu organ",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/aorgan.jpg",
+    "Latitude": "37.738001",
+    "Longitude": "29.106933"
+  },
+  {
+    "name": "irfan ertuğrul",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/iertugrul.jpg",
+    "Latitude": "37.737871",
+    "Longitude": "29.106895"
+  },
+  {
+    "name": "ayşegül tuş",
+    "floor": "1",
+    "blok": "A",
+    "title": "Prof. Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/atusisik2.jpg",
+    "Latitude": "37.737828",
+    "Longitude": "29.106724"
+  },
+  {
+    "name": "esra aytaç adalı",
+    "floor": "z",
+    "blok": "B",
+    "title": " Doç. Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/eaytac.jpg",
+    "Latitude": "37.737756",
+    "Longitude": "29.106729"
+  },
+  {
+    "name": "nilsen kundakçı",
+    "floor": "1",
+    "blok": "A",
+    "title": " Doç. Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "https://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/Nilsen%20Kundakc%C4%B1.jpg",
+    "Latitude": "37.737801",
+    "Longitude": "29.106851"
+  },
+  {
+    "name": "hüseyin koçak",
+    "floor": "1",
+    "blok": "A",
+    "title": " Doç. Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/hkocak_thumb.jpg",
+    "Latitude": "37.737915",
+    "Longitude": "29.106771"
+  },
+  {
+    "name": "gülin zeynep öztas",
+    "floor": "1",
+    "blok": "B",
+    "title": " Doç. Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/goztas.jpg",
+    "Latitude": "37.738000",
+    "Longitude": "29.106900"
+  },
+  {
+    "name": "tayfun öztaş",
+    "floor": "1",
+    "blok": "B",
+    "title": "Dr.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/tayfun3.jpg",
+    "Latitude": "37.737860",
+    "Longitude": "29.106814"
+  },
+  {
+    "name": "kevser arman",
+    "floor": "z",
+    "blok": "B",
+    "title": "Arş. Gör.",
+    "major": "Sayısal Yöntemler Anabilim Dalı",
+    "photo": "https://bukalemun.pau.edu.tr/upload/BIYS/siteler/isletme/editor/kevser.jpg",
+    "Latitude": "37.737724",
+    "Longitude": "29.106815"
+  },
+  {
+    "name": "yasin ulusoy",
+    "floor": "z",
+    "blok": "B",
+    "title": " Dr. Öğr. Ü. ",
+    "major": "Ticaret Hukuku Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/tinyMCE/akademisyen/yulusoy.jpg",
+    "Latitude": "37.737726",
+    "Longitude": "29.106749"
+  },
+  {
+    "name": "kaan m. yağcıoğlu",
+    "floor": "z",
+    "blok": "B",
+    "title": "Arş. Gör.",
+    "major": "Ticaret Hukuku Anabilim Dalı",
+    "photo": "http://cdn.pau.edu.tr/BIYS/siteler/isletme/editor/kaan.jpg",
+    "Latitude": "37.737696",
+    "Longitude": "29.106803"
+  }
+]
